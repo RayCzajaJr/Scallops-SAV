@@ -1,1 +1,1 @@
-Data files for a project with Steve Tettelbach (and others) regarding relationships between scallop processes and SAV availability. This work has yet to be accepted for publication.
+Data files and R script for Tettelbach et al 2025 (Ecopshere). Data files and code are organized by hypotheses (HX) or figures (FY). Output folder is temporarily empty as current figures are too large. 
